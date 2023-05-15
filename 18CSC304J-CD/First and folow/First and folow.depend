@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684167587 source:d:\18csc304j-cd\first and folow\main.cpp
+	<iostream>
+	<unordered_map>
+	<unordered_set>
+	<vector>
+	<string>
+
